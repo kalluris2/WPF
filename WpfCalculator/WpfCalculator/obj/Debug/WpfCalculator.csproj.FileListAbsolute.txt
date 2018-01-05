@@ -12,3 +12,17 @@ E:\DotnetProjects\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.csproj.Gen
 E:\DotnetProjects\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.csproj.CoreCompileInputs.cache
 E:\DotnetProjects\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.exe
 E:\DotnetProjects\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.pdb
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\bin\Debug\WpfCalculator.exe.config
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\bin\Debug\WpfCalculator.exe
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\bin\Debug\WpfCalculator.pdb
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.csprojResolveAssemblyReference.cache
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\Calculator.baml
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\Calculator.g.cs
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\App.g.cs
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator_MarkupCompile.cache
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.g.resources
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.Properties.Resources.resources
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.csproj.GenerateResource.Cache
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.csproj.CoreCompileInputs.cache
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.exe
+E:\DotnetProjects\WPF Applications\WPF\WpfCalculator\WpfCalculator\obj\Debug\WpfCalculator.pdb
