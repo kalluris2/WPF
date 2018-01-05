@@ -1,0 +1,15 @@
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\bin\Debug\GmailApplication.exe.config
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\bin\Debug\GmailApplication.exe
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\bin\Debug\GmailApplication.pdb
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication.csprojResolveAssemblyReference.cache
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\Gmail.g.cs
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\App.g.cs
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication_MarkupCompile.cache
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication_MarkupCompile.lref
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\Gmail.baml
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication.g.resources
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication.Properties.Resources.resources
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication.csproj.GenerateResource.Cache
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication.csproj.CoreCompileInputs.cache
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication.exe
+E:\DotnetProjects\WPF Applications\GmailApplication\GmailApplication\obj\Debug\GmailApplication.pdb
