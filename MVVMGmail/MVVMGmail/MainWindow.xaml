@@ -1,0 +1,24 @@
+﻿<Window x:Class="MVVMGmail.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVMGmail"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="525">
+    <Grid>
+        <Label Content="From:" x:Name="fromLable" HorizontalAlignment="Left" Margin="48,10,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" x:Name="fromTextBox" Height="23" Margin="110,16,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="321"/>
+        <Label Content="To:" x:Name="toLable" HorizontalAlignment="Left" Margin="48,41,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="toTextBox" HorizontalAlignment="Left" Height="23" Margin="110,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="321"/>
+        <Label Content="CC:" x:Name="ccLable"  HorizontalAlignment="Left" Margin="48,75,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="ccTextBox" HorizontalAlignment="Left" Height="23" Margin="110,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="321"/>
+        <Label Content="Body:" x:Name="bodyLable" HorizontalAlignment="Left" Margin="48,111,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" x:Name="messageTextBox" Height="130" Margin="110,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="321"/>
+        <Label x:Name="passwordLable" Content="Password" HorizontalAlignment="Left" Margin="48,255,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <TextBox x:Name="passwordTextBox"   HorizontalAlignment="Left" Height="23" Margin="130,260,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="301"/>
+        <Button x:Name="sendButton"   Content="Send" HorizontalAlignment="Left" Margin="98,312,0,0" VerticalAlignment="Top" Width="75" FontSize="16" Click="sendButton_Click"/>
+        <Button Content="Cancel" x:Name="cancelButton" HorizontalAlignment="Left" Margin="239,312,0,0" FontSize="16" VerticalAlignment="Top" Width="75" Click="cancelButton_Click"/>
+        
+    </Grid>
+</Window>
